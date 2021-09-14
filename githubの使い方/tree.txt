@@ -1,0 +1,22 @@
+fuji@embresearch:~$ tree /var/www
+/var/www
+├── embportal2
+│   ├── conf
+│   └── fetch_DxSCBd7u7lEF1veR3M4BktO4DcbQhpxO.cgi
+├── embresearch_contents
+│   ├── pages
+│   │   └── GitHubの使い方.txt
+│   ├── posts
+│   │   ├── 20210904_name_of_post
+│   │   │   └── main.md
+│   │   └── 20210912_initial_post
+│   │       ├── hoge.md
+│   │       └── hoge2.md
+│   └── template
+│       └── main.md
+└── html
+    └── index.cgi
+
+8 directories, 8 files
+fuji@embresearch:~$
+
